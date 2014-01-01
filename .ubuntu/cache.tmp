@@ -1,0 +1,11 @@
+language: php
+phps:
+ - 5.2
+ - 5.3
+
+script: phpunit --help
+
+branches:
+  only:
+    - master
+ddbb13a0c49acbe6e2a7e400c112f674-3525fasddbb13a0c49acbe6e2a7e400c112f67dA
